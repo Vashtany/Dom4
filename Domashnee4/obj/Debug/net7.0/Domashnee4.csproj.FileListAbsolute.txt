@@ -1,0 +1,15 @@
+D:\Обучение С#\Domashne4\Domashnee4\bin\Debug\net7.0\Domashnee4.exe
+D:\Обучение С#\Domashne4\Domashnee4\bin\Debug\net7.0\Domashnee4.deps.json
+D:\Обучение С#\Domashne4\Domashnee4\bin\Debug\net7.0\Domashnee4.runtimeconfig.json
+D:\Обучение С#\Domashne4\Domashnee4\bin\Debug\net7.0\Domashnee4.dll
+D:\Обучение С#\Domashne4\Domashnee4\bin\Debug\net7.0\Domashnee4.pdb
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.csproj.AssemblyReference.cache
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.AssemblyInfoInputs.cache
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.AssemblyInfo.cs
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.csproj.CoreCompileInputs.cache
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.dll
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\refint\Domashnee4.dll
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.pdb
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\Domashnee4.genruntimeconfig.cache
+D:\Обучение С#\Domashne4\Domashnee4\obj\Debug\net7.0\ref\Domashnee4.dll
